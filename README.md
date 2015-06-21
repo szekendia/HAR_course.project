@@ -7,8 +7,8 @@ The purpose of this project is to demonstrate your ability to collect, work with
 * 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
 
 ## The content of the repository
-* Tidy data set: _means_by_activity_and_subject.txt_
-* R script: _run_analysis.R_
-* Code book: _CodeBook.md_
-* _README.md_
+* Tidy data set: __means_by_activity_and_subject.txt__
+* R script: __run_analysis.R__
+* Code book: __CodeBook.md__
+* __README.md__
 
